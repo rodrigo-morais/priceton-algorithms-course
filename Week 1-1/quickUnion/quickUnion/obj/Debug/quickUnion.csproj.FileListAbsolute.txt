@@ -1,0 +1,6 @@
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\bin\Debug\quickUnion.exe.config
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\obj\Debug\quickUnion.csprojResolveAssemblyReference.cache
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\bin\Debug\quickUnion.exe
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\bin\Debug\quickUnion.pdb
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\obj\Debug\quickUnion.exe
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickUnion\quickUnion\obj\Debug\quickUnion.pdb

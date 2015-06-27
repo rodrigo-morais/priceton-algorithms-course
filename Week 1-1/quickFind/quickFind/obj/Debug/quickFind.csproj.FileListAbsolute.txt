@@ -1,0 +1,5 @@
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickFind\quickFind\bin\Debug\quickFind.exe.config
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickFind\quickFind\bin\Debug\quickFind.exe
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickFind\quickFind\bin\Debug\quickFind.pdb
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickFind\quickFind\obj\Debug\quickFind.exe
+C:\Dados\Novos Estudos\Algorithms Course\Week1-1\quickFind\quickFind\obj\Debug\quickFind.pdb
